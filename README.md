@@ -1,4 +1,4 @@
-﻿# Hi there 👋 I'm Caio Ortega Boa
+﻿# Hi there 👋 I'm Caio Boa
 
 🎓 Computer Engineering student at Insper, São Paulo
 
