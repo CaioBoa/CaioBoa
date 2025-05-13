@@ -41,7 +41,7 @@
 |--------|-------------|--------------|
 | [📊 Code Telling](https://github.com/CaioBoa/CodeTelling) | A programming language designed to translate natural language into structured code | Python, Flex/Bison, Compilers |
 | [🐱 Cursed Cats](https://github.com/CaioBoa/CursedCats) | A 2D mobile game inspired by *Vampire Survivors*, developed in Unity | C#, Unity, Game Design |
-| [🎮 Younger Ring](https://github.com/CaioBoa/YoungerRing) | A 3D Souls-like game, developed in Unreal Engine | Unreal Engine 5, Game Design |
+| [🎮 Younger Ring]([https://github.com/CaioBoa/YoungerRing](https://drive.google.com/file/d/1NBdtdZkN9AUe3URvR-xC6gxr5LoF5IVY/view?usp=sharing)) | A 3D Souls-like game, developed in Unreal Engine | Unreal Engine 5, Game Design |
 | [☁️ CloudFormation Infrastructure](https://github.com/CaioBoa/CloudFormationProject) | Infrastructure-as-code project using AWS CloudFormation templates | AWS, CloudFormation, YAML |
 | [🔧 RISC Processor](https://github.com/CaioBoa/MIPS) | A 32-bit RISC processor implementation compatible with MIPS DLX architecture | VHDL, Digital Systems, CPU Design |
 | [🥋 UFC Prediction](https://github.com/LucaMizrahi/ProjetoML_UFC) | Machine Learning project to predict outcomes of UFC fights | Python, Scikit-learn, Pandas |
