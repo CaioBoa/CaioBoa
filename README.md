@@ -45,8 +45,7 @@
 | [☁️ CloudFormation Infrastructure](https://github.com/CaioBoa/CloudFormationProject) | Infrastructure-as-code project using AWS CloudFormation templates | AWS, CloudFormation, YAML |
 | [🔧 RISC Processor](https://github.com/CaioBoa/MIPS) | A 32-bit RISC processor implementation compatible with MIPS DLX architecture | VHDL, Digital Systems, CPU Design |
 | [🥋 UFC Prediction](https://github.com/LucaMizrahi/ProjetoML_UFC) | Machine Learning project to predict outcomes of UFC fights | Python, Scikit-learn, Pandas |
-| [⚽ Brasileirão Prediction](https://github.com/CaioBoa/BrasileiraoPredicts) | Machine Learning model for predicting match scores in the Brazilian football league (*Brasileirão*) | Python, XGBoost, Data
-Analysis |
+| [⚽ Brasileirão Prediction](https://github.com/CaioBoa/BrasileiraoPredicts) | Machine Learning model for predicting match scores in the Brazilian football league (*Brasileirão*) | Python, XGBoost, Data Analysis |
 | [🛍️ 3D Shopping w/ Generative Agents](https://github.com/CaioBoa/BrasileiraoPredicts) | Spatial-computing simulation in a virtual mall where autonomous LLM agents (Buyer, Attendant, Seller, Flow Controller) navigate in Unity, query real-time inventory on AWS, negotiate, and complete/decline purchases end-to-end | Unity 3D, LangChain, OpenAI, AWS (DB) |
 
 
@@ -66,4 +65,5 @@ Analysis |
 📧 Email: cailu2003@gmail.com
 
 ---
+
 
